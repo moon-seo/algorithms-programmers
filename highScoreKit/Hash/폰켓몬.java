@@ -1,6 +1,7 @@
+package highScoreKit.Hash;
+
 import java.util.Map;
 import java.util.HashMap;
-import java.util.Set;
 
 class Solution {
     public int solution(int[] nums) {
