@@ -1,4 +1,4 @@
-package highScoreKit.Hash;
+package highScoreKit.Sort;
 
 import java.util.Arrays;
 
