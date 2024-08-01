@@ -18,6 +18,12 @@
     * substring() 문자열 쪼개는 메소드
 * (Hash) 의상
     * 조합을 어떤 수식으로 계산해야 할지 몰랐음 (생각보다 쉬웠다)
+* (BruteForce) 소수 찾기
+    * 재귀함수 순열 개념 부족
+* (BruteForce) 피로도
+    * DFS 개념 부족
+* (BruteForce) 모음사전
+    * 수학적 아이디어 or DFS 개념 부족
     
 ## 복잡하게 푼 문제
 * (StackAndQueue) 주식가격
