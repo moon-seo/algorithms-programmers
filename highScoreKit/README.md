@@ -8,6 +8,12 @@
     * HashMap에서 key를 모르는 상태에서 요소 꺼내는 방법을 몰랐음 (keySet() or entrySet())
 * (StackAndQueue) 기능개발
     * 스트림과 람다 표현식 공부해야 함
+* (StackAndQueue) 올바른 괄호
+    * string.toCharArray()
+* (Greedy) 체육복
+    * Arrays.binarySearch()
+* (BruteForce) 모의고사
+    * List -> Array 변환
 
 ---
 
